@@ -51,7 +51,7 @@ python-nmap==0.6.1
 pytz==2018.7
 pyvim==2.0.23
 pyvmomi==6.7.1.2018.12
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 shellescape==3.4.1
 six==1.12.0
