@@ -28,7 +28,7 @@ jedi==0.13.2
 Naked==0.1.31
 odfpy==1.4.0
 openpyxl==2.5.12
-paramiko==2.4.2
+paramiko==2.10.1
 paramiko-expect==0.2.8
 parso==0.3.1
 pexpect==4.6.0
